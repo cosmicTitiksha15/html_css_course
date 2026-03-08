@@ -1,0 +1,13 @@
+*{
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+.p1{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.p2 a{
+    color: black;
+}
