@@ -1,0 +1,20 @@
+ p{
+    font-family: "Montserrat", sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.line_1{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.line_2{
+    font-size: 17px;
+}
+
+span{
+    text-decoration: underline;
+}
